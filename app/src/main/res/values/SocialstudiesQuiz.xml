@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Economy1Quiz">
+        <item> soQuestion1 </item>
+        <item> soQuestion2 </item>
+        <item> soQuestion3 </item>
+        <item> soQuestion4 </item>
+        <item> soQuestion5 </item>
+        <item> soQuestion6 </item>
+        <item> soQuestion7 </item>
+        <item> soQuestion8 </item>
+        <item> soQuestion9 </item>
+        <item> soQuestion10 </item>
+    </string-array>
+    <string-array name="soQuestion1">
+        <item>
+            空欄に当てはまるのは？「生産と消費を中心とする人間の活動を（　）という。」
+        </item>
+        <item>
+            売買
+        </item>
+        <item>
+            経済
+        </item>
+        <item>
+            社会生活
+        </item>
+        <item>
+            契約
+        </item>
+        <item>
+            経済
+        </item>
+    </string-array>
+    <string-array name="soQuestion2">
+        <item>
+            空欄に当てはまるのは？「（　）は交換・価値尺度・価値貯蔵の機能を持つ。」
+        </item>
+        <item>
+            金貨
+        </item>
+        <item>
+            株
+        </item>
+        <item>
+            企業
+        </item>
+        <item>
+            貨幣
+        </item>
+        <item>
+            貨幣
+        </item>
+    </string-array>
+    <string-array name="soQuestion3">
+        <item>
+            空欄に当てはまるのは？「人間の欲求に対して、資源が不足した状態にあることを（　）という。」
+        </item>
+        <item>
+            希少性
+        </item>
+        <item>
+            枯渇
+        </item>
+        <item>
+            資源不足
+        </item>
+        <item>
+            価値
+        </item>
+        <item>
+            希少性
+        </item>
+    </string-array>
+    <string-array name="soQuestion4">
+        <item>
+            空欄に当てはまるのは？「消費者の欲求をもっとも満足させるような資源の組み合わせを選ぶことを（　）という。」
+        </item>
+        <item>
+            資源の供給
+        </item>
+        <item>
+            資源の最も効率的な分配
+        </item>
+        <item>
+            資源の効率的な配分
+        </item>
+        <item>
+            資源の組み合わせ
+        </item>
+        <item>
+            資源の効率的な配分
+        </item>
+    </string-array>
+    <string-array name="soQuestion5">
+        <item>
+            空欄に当てはまるのは？（読み方も）「様々な商品が自由に売買される場を（　）という。」
+        </item>
+        <item>
+            店舗（てんぽ）
+        </item>
+        <item>
+            取引場（とりひきじょう）
+        </item>
+        <item>
+            市場（しじょう）
+        </item>
+        <item>
+            市場（いちば）
+        </item>
+        <item>
+            市場（しじょう）
+        </item>
+    </string-array>
+    <string-array name="soQuestion6">
+        <item>
+            空欄に当てはまるのは？「売り手が一社しかいない（　）では、資源の効率的な配分が行われないことがある」
+        </item>
+        <item>
+            独立
+        </item>
+        <item>
+            寡占
+        </item>
+        <item>
+            独占
+        </item>
+        <item>
+            独自
+        </item>
+        <item>
+            独占
+        </item>
+    </string-array>
+    <string-array name="soQuestion7">
+        <item>
+            空欄に当てはまるのは？「家計の所得は、全額が消費に支出されるのではなく、（　）にも回される。」
+        </item>
+        <item>
+            保険料
+        </item>
+        <item>
+            貯蓄
+        </item>
+        <item>
+            社会保障
+        </item>
+        <item>
+            娯楽
+        </item>
+        <item>
+            貯蓄
+        </item>
+    </string-array>
+    <string-array name="soQuestion8">
+        <item>
+            空欄に当てはまるのは？「現金を使わない支払いを（　）という。」
+        </item>
+        <item>
+            キャッシュレス
+        </item>
+        <item>
+            キャッシュカード
+        </item>
+        <item>
+            クレジットカード
+        </item>
+        <item>
+            後払い
+        </item>
+        <item>
+            キャッシュレス
+        </item>
+    </string-array>
+    <string-array name="soQuestion9">
+        <item>
+            空欄に当てはまるのは？「流通は、商品を消費者に売る小売業と、生産者から商品を買って小売店に売る（　）が中心。」
+        </item>
+        <item>
+            大売業
+        </item>
+        <item>
+            仲卸業
+        </item>
+        <item>
+            卸売業
+        </item>
+        <item>
+            中売業
+        </item>
+        <item>
+            卸売業
+        </item>
+    </string-array>
+    <string-array name="soQuestion10">
+        <item>
+            空欄に当てはまるのは？「商品の情報を知る手段として、企業が作る（　）がある。」
+        </item>
+        <item>
+            案内
+        </item>
+        <item>
+            広告
+        </item>
+        <item>
+            説明会
+        </item>
+        <item>
+            テレビ
+        </item>
+        <item>
+            広告
+        </item>
+    </string-array>
+</resources>

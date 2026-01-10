@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFC7B5"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingHorizontal="26dp"
+    android:paddingVertical="14dp">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="間違えた問題はないよ！"
+        android:textAlignment="center"
+        android:textColor="#333333"
+        android:textSize="24sp" />
+</LinearLayout>

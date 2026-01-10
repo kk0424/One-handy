@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Solution1Quiz">
+        <item> scQuestion1 </item>
+        <item> scQuestion2 </item>
+        <item> scQuestion3 </item>
+        <item> scQuestion4 </item>
+        <item> scQuestion5 </item>
+        <item> scQuestion6 </item>
+        <item> scQuestion7 </item>
+        <item> scQuestion8 </item>
+        <item> scQuestion9 </item>
+        <item> scQuestion10 </item>
+    </string-array>
+    <string-array name="scQuestion1">
+        <item>
+            水に溶けると水溶液に電流が流れる物質は？
+        </item>
+        <item>
+            電流質
+        </item>
+        <item>
+            電気物質
+        </item>
+        <item>
+            電溶質
+        </item>
+        <item>
+            電解質
+        </item>
+        <item>
+            電解質
+        </item>
+    </string-array>
+    <string-array name="scQuestion2">
+        <item>
+            水に溶けると水溶液に電流が流れない物質は？
+        </item>
+        <item>
+            無電解質
+        </item>
+        <item>
+            非電解質
+        </item>
+        <item>
+            不電解質
+        </item>
+        <item>
+            未電解質
+        </item>
+        <item>
+            非電解質
+        </item>
+    </string-array>
+    <string-array name="scQuestion3">
+        <item>
+            次のうち、電解質でないものは？
+        </item>
+        <item>
+            砂糖
+        </item>
+        <item>
+            塩化水素
+        </item>
+        <item>
+            塩化ナトリウム
+        </item>
+        <item>
+            水酸化ナトリウム
+        </item>
+        <item>
+            砂糖
+        </item>
+    </string-array>
+    <string-array name="scQuestion4">
+        <item>
+            塩化銅水溶液に電流を流すとどうなる？
+        </item>
+        <item>
+            －極に塩素、＋極に銅が発生
+        </item>
+        <item>
+            －極に銅、＋極に塩素が発生
+        </item>
+        <item>
+            どちらにも銅、塩素が発生
+        </item>
+        <item>
+            電流は流れない
+        </item>
+        <item>
+            －極に銅、＋極に塩素が発生
+        </item>
+    </string-array>
+    <string-array name="scQuestion5">
+        <item>
+            原子の原子核にあるものは？
+        </item>
+        <item>
+            電子
+        </item>
+        <item>
+            電子と中性子
+        </item>
+        <item>
+            電子と陽子
+        </item>
+        <item>
+            陽子と中性子
+        </item>
+        <item>
+            陽子と中性子
+        </item>
+    </string-array>
+    <string-array name="scQuestion6">
+        <item>
+            同位体とは？
+        </item>
+        <item>
+            まったく同じ原子
+        </item>
+        <item>
+            中性子の数が同じの違う原子
+        </item>
+        <item>
+            中性子の数が違う同じ原子
+        </item>
+        <item>
+            電子の数が違う同じ原子
+        </item>
+        <item>
+            中性子の数が違う同じ原子
+        </item>
+    </string-array>
+    <string-array name="scQuestion7">
+        <item>
+            電子を放ったり受け取ったりして電気を帯びた原子は？
+        </item>
+        <item>
+            プラス
+        </item>
+        <item>
+            マイナス
+        </item>
+        <item>
+            酸化物
+        </item>
+        <item>
+            イオン
+        </item>
+        <item>
+            イオン
+        </item>
+    </string-array>
+    <string-array name="scQuestion8">
+        <item>
+            ナトリウムイオンはどれ？
+        </item>
+        <item>
+            Na -
+        </item>
+        <item>
+            Na +
+        </item>
+        <item>
+            Na 2-
+        </item>
+        <item>
+            Na 2+
+        </item>
+        <item>
+            Na +
+        </item>
+    </string-array>
+    <string-array name="scQuestion9">
+        <item>
+            マグネシウムイオンはどれ？
+        </item>
+        <item>
+            Mg -
+        </item>
+        <item>
+            Mg +
+        </item>
+        <item>
+            Mg 2-
+        </item>
+        <item>
+            Mg 2+
+        </item>
+        <item>
+            Mg 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion10">
+        <item>
+            アンモニウムイオンはどれ？
+        </item>
+        <item>
+            NH4 -
+        </item>
+        <item>
+            NH4 +
+        </item>
+        <item>
+            NH4 2-
+        </item>
+        <item>
+            NH4 2+
+        </item>
+        <item>
+            NH4 +
+        </item>
+    </string-array>
+    <string-array name="Solution2Quiz">
+        <item> scQuestion11 </item>
+        <item> scQuestion12 </item>
+        <item> scQuestion13 </item>
+        <item> scQuestion14 </item>
+        <item> scQuestion15 </item>
+        <item> scQuestion16 </item>
+        <item> scQuestion17 </item>
+        <item> scQuestion18 </item>
+        <item> scQuestion19 </item>
+        <item> scQuestion20 </item>
+    </string-array>
+    <string-array name="scQuestion11">
+        <item>
+            銅イオンはどれ？
+        </item>
+        <item>
+            Ag 2-
+        </item>
+        <item>
+            Ag 2+
+        </item>
+        <item>
+            Cu 2-
+        </item>
+        <item>
+            Cu 2+
+        </item>
+        <item>
+            Cu 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion12">
+        <item>
+            銀イオンはどれ？
+        </item>
+        <item>
+            Ag -
+        </item>
+        <item>
+            Ag +
+        </item>
+        <item>
+            Au -
+        </item>
+        <item>
+            Au +
+        </item>
+        <item>
+            Ag +
+        </item>
+    </string-array>
+    <string-array name="scQuestion13">
+        <item>
+            鉄イオンはどれ？
+        </item>
+        <item>
+            Fe -
+        </item>
+        <item>
+            Fe +
+        </item>
+        <item>
+            Fe 2-
+        </item>
+        <item>
+            Fe 2+
+        </item>
+        <item>
+            Fe 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion14">
+        <item>
+            亜鉛イオンはどれ？
+        </item>
+        <item>
+            Zn -
+        </item>
+        <item>
+            Zn +
+        </item>
+        <item>
+            Zn 2-
+        </item>
+        <item>
+            Zn 2+
+        </item>
+        <item>
+            Zn 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion15">
+        <item>
+            塩化物イオンはどれ？
+        </item>
+        <item>
+            Cl -
+        </item>
+        <item>
+            Cl +
+        </item>
+        <item>
+            NaCl -
+        </item>
+        <item>
+            NaCl +
+        </item>
+        <item>
+            Cl -
+        </item>
+    </string-array>
+    <string-array name="scQuestion16">
+        <item>
+            硫化物イオンはどれ？
+        </item>
+        <item>
+            S -
+        </item>
+        <item>
+            S +
+        </item>
+        <item>
+            S 2-
+        </item>
+        <item>
+            S 2+
+        </item>
+        <item>
+            S 2-
+        </item>
+    </string-array>
+    <string-array name="scQuestion17">
+        <item>
+            水酸化物イオンはどれ？
+        </item>
+        <item>
+            OH -
+        </item>
+        <item>
+            OH +
+        </item>
+        <item>
+            HO -
+        </item>
+        <item>
+            HO +
+        </item>
+        <item>
+            OH -
+        </item>
+    </string-array>
+    <string-array name="scQuestion18">
+        <item>
+            水素イオンはどれ？
+        </item>
+        <item>
+            O -
+        </item>
+        <item>
+            O +
+        </item>
+        <item>
+            H -
+        </item>
+        <item>
+            H +
+        </item>
+        <item>
+            H +
+        </item>
+    </string-array>
+    <string-array name="scQuestion19">
+        <item>
+            カルシウムイオンはどれ？
+        </item>
+        <item>
+            Ca 2-
+        </item>
+        <item>
+            Ca 2+
+        </item>
+        <item>
+            C 2-
+        </item>
+        <item>
+            C 2+
+        </item>
+        <item>
+            Ca 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion20">
+        <item>
+            硫酸イオンはどれ？
+        </item>
+        <item>
+            SO4 -
+        </item>
+        <item>
+            SO4 +
+        </item>
+        <item>
+            SO4 2-
+        </item>
+        <item>
+            SO4 2+
+        </item>
+        <item>
+            SO4 2-
+        </item>
+    </string-array>
+    <string-array name="Solution3Quiz">
+        <item> scQuestion21 </item>
+        <item> scQuestion22 </item>
+        <item> scQuestion23 </item>
+        <item> scQuestion24 </item>
+        <item> scQuestion25 </item>
+        <item> scQuestion26 </item>
+        <item> scQuestion27 </item>
+        <item> scQuestion28 </item>
+    </string-array>
+    <string-array name="scQuestion21">
+        <item>
+            リチウムイオンはどれ？
+        </item>
+        <item>
+            Li -
+        </item>
+        <item>
+            Li +
+        </item>
+        <item>
+            Li 2-
+        </item>
+        <item>
+            Li 2+
+        </item>
+        <item>
+            Li +
+        </item>
+    </string-array>
+    <string-array name="scQuestion22">
+        <item>
+            硝酸イオンはどれ？
+        </item>
+        <item>
+            NO2 -
+        </item>
+        <item>
+            NO2 +
+        </item>
+        <item>
+            NO3 2-
+        </item>
+        <item>
+            NO3 2+
+        </item>
+        <item>
+            NO3 -
+        </item>
+    </string-array>
+    <string-array name="scQuestion23">
+        <item>
+            カリウムイオンはどれ？
+        </item>
+        <item>
+            K -
+        </item>
+        <item>
+            K +
+        </item>
+        <item>
+            K 2-
+        </item>
+        <item>
+            K 2+
+        </item>
+        <item>
+            K +
+        </item>
+    </string-array>
+    <string-array name="scQuestion24">
+        <item>
+            炭酸イオンはどれ？
+        </item>
+        <item>
+            CO2 2-
+        </item>
+        <item>
+            CO2 2+
+        </item>
+        <item>
+            CO3 2-
+        </item>
+        <item>
+            CO3 2+
+        </item>
+        <item>
+            CO3 2-
+        </item>
+    </string-array>
+    <string-array name="scQuestion25">
+        <item>
+            バリウムイオンはどれ？
+        </item>
+        <item>
+            Ba -
+        </item>
+        <item>
+            Ba +
+        </item>
+        <item>
+            Ba 2-
+        </item>
+        <item>
+            Ba 2+
+        </item>
+        <item>
+            Ba 2+
+        </item>
+    </string-array>
+    <string-array name="scQuestion26">
+        <item>
+            電離とは？
+        </item>
+        <item>
+            電解質に電気が流れること
+        </item>
+        <item>
+            分子が別の分子になること
+        </item>
+        <item>
+            電解質が陽イオンと陰イオンに分かれること
+        </item>
+        <item>
+            イオンがイオンでない元の原子になること
+        </item>
+        <item>
+            電解質が陽イオンと陰イオンに分かれること
+        </item>
+    </string-array>
+    <string-array name="scQuestion27">
+        <item>
+            塩化ナトリウムの電離の化学式は？
+        </item>
+        <item>
+            HCl → H+ + Cl-
+        </item>
+        <item>
+            HCl → H- + Cl+
+        </item>
+        <item>
+            NaCl → Na+ + Cl-
+        </item>
+        <item>
+            NaCl → Na- + Cl+
+        </item>
+        <item>
+            NaCl → Na+ + Cl-
+        </item>
+    </string-array>
+    <string-array name="scQuestion28">
+        <item>
+            塩化銅の電離の化学式は？
+        </item>
+        <item>
+            CuCl2 → Cu+ + 2Cl-
+        </item>
+        <item>
+            CuCl2 → Cu- + 2Cl+
+        </item>
+        <item>
+            CuCl2 → Cu 2- + 2Cl 2+
+        </item>
+        <item>
+            CuCl2 → Cu 2+ + 2Cl-
+        </item>
+        <item>
+            CuCl2 → Cu 2+ + 2Cl-
+        </item>
+    </string-array>
+    <string-array name="scQuestion29"></string-array>
+</resources>

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Word1Quiz">
+        <item> jpQuestion1 </item>
+        <item> jpQuestion2 </item>
+        <item> jpQuestion3 </item>
+        <item> jpQuestion4 </item>
+        <item> jpQuestion5 </item>
+        <item> jpQuestion6 </item>
+        <item> jpQuestion7 </item>
+        <item> jpQuestion8 </item>
+        <item> jpQuestion9 </item>
+        <item> jpQuestion10 </item>
+    </string-array>
+    <string-array name="jpQuestion1">
+        <item>
+            次の古文単語の意味は？「おもしろし」
+        </item>
+        <item>
+            心底しみじみと感じられる
+        </item>
+        <item>
+            かわいらしい・立派だ
+        </item>
+        <item>
+            すばらしい・興趣がある
+        </item>
+        <item>
+            高貴だ・この上ない
+        </item>
+        <item>
+            すばらしい・興趣がある
+        </item>
+    </string-array>
+    <string-array name="jpQuestion2">
+        <item>
+           次の古文単語の意味は？「あらまほし」
+        </item>
+        <item>
+            あきれるほどひどい
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            趣がある
+        </item>
+        <item>
+            理想的だ
+        </item>
+        <item>
+            理想的だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion3">
+        <item>
+            次の古文単語の意味は？「やむごとなし」
+        </item>
+        <item>
+            高貴だ・この上ない
+        </item>
+        <item>
+            ずっと続いている
+        </item>
+        <item>
+            とてもひどい
+        </item>
+        <item>
+            頼りない・ちょっとした
+        </item>
+        <item>
+            高貴だ・この上ない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion4">
+        <item>
+            次の古文単語の意味は？「ゆゆし」
+        </item>
+        <item>
+            恐れ多い・すばらしい
+        </item>
+        <item>
+            不吉だ・すばらしい
+        </item>
+        <item>
+            無駄だ・暇だ
+        </item>
+        <item>
+            熱心だ・親しい
+        </item>
+        <item>
+            不吉だ・すばらしい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion5">
+        <item>
+            次の古文単語の意味は？「かしこし」
+        </item>
+        <item>
+            退屈だ・もの寂しい
+        </item>
+        <item>
+            勉強ができる
+        </item>
+        <item>
+            記憶力がいい
+        </item>
+        <item>
+            恐れ多い・すばらしい
+        </item>
+        <item>
+            恐れ多い・すばらしい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion6">
+        <item>
+            次の古文単語の意味は？「うるはし」
+        </item>
+        <item>
+            端正だ・親しい
+        </item>
+        <item>
+            みずみずしい・新鮮だ
+        </item>
+        <item>
+            かわいらしい
+        </item>
+        <item>
+            頼りない・ちょっとした
+        </item>
+        <item>
+            端正だ・親しい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion7">
+        <item>
+            次の古文単語の意味は？「はかなし」
+        </item>
+        <item>
+            はかない・しみじみと感じられる
+        </item>
+        <item>
+            見苦しい・気の毒だ
+        </item>
+        <item>
+            残念だ
+        </item>
+        <item>
+            頼りない・ちょっとした
+        </item>
+        <item>
+            頼りない・ちょっとした
+        </item>
+    </string-array>
+    <string-array name="jpQuestion8">
+        <item>
+            次の古文単語の意味は？「はかばかし」
+        </item>
+        <item>
+            驚きあきれるほどだ・ばかばかしい
+        </item>
+        <item>
+            しっかりしている・はっきりしている
+        </item>
+        <item>
+            うっとうしい・わずらわしい
+        </item>
+        <item>
+            興ざめだ・殺風景だ
+        </item>
+        <item>
+            しっかりしている・はっきりしている
+        </item>
+    </string-array>
+    <string-array name="jpQuestion9">
+        <item>
+            次の古文単語の意味は？「やさし」
+        </item>
+        <item>
+            穏やかだ・優しい
+        </item>
+        <item>
+            簡単だ
+        </item>
+        <item>
+            優雅だ・けなげだ
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            優雅だ・けなげだ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion10">
+        <item>
+            次の古文単語の意味は？「いはけなし」
+        </item>
+        <item>
+            幼い・あどけない
+        </item>
+        <item>
+            背が低い
+        </item>
+        <item>
+            大人っぽい・年配だ
+        </item>
+        <item>
+            聞き分けのない
+        </item>
+        <item>
+            幼い・あどけない
+        </item>
+    </string-array>
+    <string-array name="Word2Quiz">
+        <item> jpQuestion11 </item>
+        <item> jpQuestion12 </item>
+        <item> jpQuestion13 </item>
+        <item> jpQuestion14 </item>
+        <item> jpQuestion15 </item>
+        <item> jpQuestion16 </item>
+        <item> jpQuestion17 </item>
+        <item> jpQuestion18 </item>
+        <item> jpQuestion19 </item>
+        <item> jpQuestion20 </item>
+    </string-array>
+    <string-array name="jpQuestion11">
+        <item>
+            次の古文単語の意味は？「かたはらいたし」
+        </item>
+        <item>
+            おもしろい・趣がある
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            自然だ・偶然だ
+        </item>
+        <item>
+            見苦しい・気の毒だ・ばかばかしい
+        </item>
+        <item>
+            見苦しい・気の毒だ・ばかばかしい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion12">
+        <item>
+            次の古文単語の意味は？「こころもとなし」
+        </item>
+        <item>
+            心が落ち着かない・焦っている
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+        <item>
+            興ざめだ・殺風景だ
+        </item>
+        <item>
+            性質がよくない・いたずらだ
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion13">
+        <item>
+            次の古文単語の意味は？「いとほし」
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            欲しい・手に入れたい
+        </item>
+        <item>
+            あきれるほどひどい・情けない
+        </item>
+        <item>
+            関係がない・つまらない
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion14">
+        <item>
+            次の古文単語の意味は？「あさまし」
+        </item>
+        <item>
+            すっきりしている・すがすがしい
+        </item>
+        <item>
+            とても・たいして
+        </item>
+        <item>
+            驚きあきれるほどだ・情けない
+        </item>
+        <item>
+            不吉だ・すばらしい
+        </item>
+        <item>
+            驚きあきれるほどだ・情けない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion15">
+        <item>
+            次の古文単語の意味は？「いたし」
+        </item>
+        <item>
+            とても・すばらしい
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            物足りない
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+        <item>
+            とても・すばらしい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion16">
+        <item>
+            次の古文単語の意味は？「つれなし」
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+        <item>
+            筋違いだ・つまらない
+        </item>
+        <item>
+            関係がない・方法がない
+        </item>
+        <item>
+            平然としている・冷淡だ
+        </item>
+        <item>
+            平然としている・冷淡だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion17">
+        <item>
+            次の古文単語の意味は？「あいなし」
+        </item>
+        <item>
+            大人らしい・年配だ
+        </item>
+        <item>
+            筋違いだ・つまらない
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            見苦しい・気の毒だ
+        </item>
+        <item>
+            筋違いだ・つまらない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion18">
+        <item>
+            次の古文単語の意味は？「あぢきなし」
+        </item>
+        <item>
+            味がない・無味だ
+        </item>
+        <item>
+            関係がない・方法がない
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            平然としている・冷淡だ
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion19">
+        <item>
+            次の古文単語の意味は？「さがなし」
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+        <item>
+            性質がよくない・いたずらだ
+        </item>
+        <item>
+            めったにない・立派だ
+        </item>
+        <item>
+            不思議だ・けしからん
+        </item>
+        <item>
+            性質がよくない・いたずらだ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion20">
+        <item>
+            次の古文単語の意味は？「すさまじ」
+        </item>
+        <item>
+            不吉だ・すばらしい
+        </item>
+        <item>
+            高貴だ・この上ない
+        </item>
+        <item>
+            熱心だ・親しい
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+    </string-array>
+    <string-array name="Word3Quiz">
+        <item> jpQuestion21 </item>
+        <item> jpQuestion22 </item>
+        <item> jpQuestion23 </item>
+        <item> jpQuestion24 </item>
+        <item> jpQuestion25 </item>
+        <item> jpQuestion26 </item>
+        <item> jpQuestion27 </item>
+        <item> jpQuestion28 </item>
+        <item> jpQuestion29 </item>
+        <item> jpQuestion30 </item>
+    </string-array>
+    <string-array name="jpQuestion21">
+        <item>
+            次の古文単語の意味は？「いふかひなし」
+        </item>
+        <item>
+            どうしようもない・取るに足らない
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+        <item>
+            高貴だ・この上ない
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            どうしようもない・取るに足らない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion22">
+        <item>
+            次の古文単語の意味は？「よしなし」
+        </item>
+        <item>
+            はかない・不誠実だ
+        </item>
+        <item>
+            幼い・あどけない
+        </item>
+        <item>
+            まる見えだ・明らかだ
+        </item>
+        <item>
+            関係がない・方法がない
+        </item>
+        <item>
+            関係がない・方法がない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion23">
+        <item>
+            次の古文単語の意味は？「びんなし」
+        </item>
+        <item>
+            おそれ多い・ありがたい
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+        <item>
+            平然としている・冷淡だ
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion24">
+        <item>
+            次の古文単語の意味は？「びんなし」
+        </item>
+        <item>
+            情趣を解さない・見苦しい
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+        <item>
+            まったくひどい・むやみに
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion25">
+        <item>
+            次の古文単語の意味は？「さうざうし」
+        </item>
+        <item>
+            物足りない・心寂しい
+        </item>
+        <item>
+            筋違いだ・つまらない
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+        <item>
+            端正だ・親しい
+        </item>
+        <item>
+            物足りない・心寂しい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion26">
+        <item>
+            次の古文単語の意味は？「むつかし」
+        </item>
+        <item>
+            見苦しい・気の毒だ
+        </item>
+        <item>
+            熱い・気温が高い
+        </item>
+        <item>
+            うっとうしい・わずらわしい
+        </item>
+        <item>
+            あてもない・思いがけない
+        </item>
+        <item>
+            うっとうしい・わずらわしい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion27">
+        <item>
+            次の古文単語の意味は？「あてなり」
+        </item>
+        <item>
+            あてもない・思いがけない
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+        <item>
+            まったくひどい・むやみに
+        </item>
+        <item>
+            身分が高い・上品だ
+        </item>
+        <item>
+            身分が高い・上品だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion28">
+        <item>
+            次の古文単語の意味は？「きよらなり」
+        </item>
+        <item>
+            かわいそうだ・かわいい
+        </item>
+        <item>
+            美しい・華麗だ
+        </item>
+        <item>
+            優雅だ・けなげだ
+        </item>
+        <item>
+            端正だ・親しい
+        </item>
+        <item>
+            美しい・華麗だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion29">
+        <item>
+            次の古文単語の意味は？「さらなり」
+        </item>
+        <item>
+            言うまでもない・もちろんだ
+        </item>
+        <item>
+            関係がない・方法がない
+        </item>
+        <item>
+            どうしようもない・取るに足らない
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            言うまでもない・もちろんだ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion30">
+        <item>
+            次の古文単語の意味は？「あらはなり」
+        </item>
+        <item>
+            興ざめだ・殺風景だ
+        </item>
+        <item>
+            身分が高い・上品だ
+        </item>
+        <item>
+            はかない・不誠実だ
+        </item>
+        <item>
+            まる見えだ・明らかだ
+        </item>
+        <item>
+            まる見えだ・明らかだ
+        </item>
+    </string-array>
+    <string-array name="Word4Quiz">
+        <item> jpQuestion31 </item>
+        <item> jpQuestion32 </item>
+        <item> jpQuestion33 </item>
+        <item> jpQuestion34 </item>
+        <item> jpQuestion35 </item>
+        <item> jpQuestion36 </item>
+        <item> jpQuestion37 </item>
+        <item> jpQuestion38 </item>
+        <item> jpQuestion39 </item>
+        <item> jpQuestion40 </item>
+    </string-array>
+    <string-array name="jpQuestion31">
+        <item>
+            次の古文単語の意味は？「あからさまなり」
+        </item>
+        <item>
+            無駄だ・暇だ
+        </item>
+        <item>
+            ちょっとの間だ・少し
+        </item>
+        <item>
+            熱心だ・親しい
+        </item>
+        <item>
+            まる見えだ・明らかだ
+        </item>
+        <item>
+            ちょっとの間だ・少し
+        </item>
+    </string-array>
+    <string-array name="jpQuestion32">
+        <item>
+            次の古文単語の意味は？「かたくななり」
+        </item>
+        <item>
+            情趣を解さない・見苦しい
+        </item>
+        <item>
+            心底しみじみと感じられる
+        </item>
+        <item>
+            都合が悪い・困ったことだ
+        </item>
+        <item>
+            性質がよくない・いたずらだ
+        </item>
+        <item>
+            情趣を解さない・見苦しい
+        </item>
+    </string-array>
+    <string-array name="jpQuestion33">
+        <item>
+            次の古文単語の意味は？「あだなり」
+        </item>
+        <item>
+            物足りない・心寂しい
+        </item>
+        <item>
+            不気味だ・気味が悪い
+        </item>
+        <item>
+            はかない・不誠実だ
+        </item>
+        <item>
+            美しい・華麗だ
+        </item>
+        <item>
+            はかない・不誠実だ
+        </item>
+    </string-array>
+    <string-array name="jpQuestion34">
+        <item>
+            次の古文単語の意味は？「すずろなり」
+        </item>
+        <item>
+            あてもない・思いがけない
+        </item>
+        <item>
+            どうにもならない・つまらない
+        </item>
+        <item>
+            うっとうしい・わずらわしい
+        </item>
+        <item>
+            待ち遠しい・不安だ
+        </item>
+        <item>
+            あてもない・思いがけない
+        </item>
+    </string-array>
+    <string-array name="jpQuestion35">
+        <item>
+            次の古文単語の意味は？「むげなり」
+        </item>
+        <item>
+            殺風景だ・興ざめだ
+        </item>
+        <item>
+            平然としている・冷淡だ
+        </item>
+        <item>
+            まったくひどい・むやみに
+        </item>
+        <item>
+            筋違いだ・つまらない
+        </item>
+        <item>
+            まったくひどい・むやみに
+        </item>
+    </string-array>
+    <string-array name="jpQuestion36">
+        <item>
+            次の古文単語の意味は？「おほやけ」
+        </item>
+        <item>
+            朝廷・天皇
+        </item>
+        <item>
+            人前・公共の場
+        </item>
+        <item>
+            夕方
+        </item>
+        <item>
+            思いやり・男女間の情愛
+        </item>
+        <item>
+            朝廷・天皇
+        </item>
+    </string-array>
+    <string-array name="jpQuestion37">
+        <item>
+            次の古文単語の意味は？「きは」
+        </item>
+        <item>
+            端・隅
+        </item>
+        <item>
+            時・あたり
+        </item>
+        <item>
+            身分・程度
+        </item>
+        <item>
+            手紙・漢詩
+        </item>
+        <item>
+            身分・程度
+        </item>
+    </string-array>
+    <string-array name="jpQuestion38">
+        <item>
+            次の古文単語の意味は？「しるし」
+        </item>
+        <item>
+            ご利益・効果
+        </item>
+        <item>
+            記号・マーク
+        </item>
+        <item>
+            方向
+        </item>
+        <item>
+            光・姿
+        </item>
+        <item>
+            ご利益・効果
+        </item>
+    </string-array>
+    <string-array name="jpQuestion39">
+        <item>
+            次の古文単語の意味は？「ことわり」
+        </item>
+        <item>
+            知識
+        </item>
+        <item>
+            約束・宿縁
+        </item>
+        <item>
+            道理
+        </item>
+        <item>
+            様子・機嫌
+        </item>
+        <item>
+            道理
+        </item>
+    </string-array>
+    <string-array name="jpQuestion40">
+        <item>
+            次の古文単語の意味は？「ためし」
+        </item>
+        <item>
+            例・語り草
+        </item>
+        <item>
+            間違い・過ち
+        </item>
+        <item>
+            手紙・訪問
+        </item>
+        <item>
+            男女の仲
+        </item>
+        <item>
+            例・語り草
+        </item>
+    </string-array>
+    <string-array name="Word5Quiz">
+        <item> jpQuestion41 </item>
+    </string-array>
+    <string-array name="jpQuestion41">
+        <item>
+            次の古文単語の意味は？「わざ」
+        </item>
+        <item>
+            縁・方法
+        </item>
+        <item>
+            さまざまなこと・すべて
+        </item>
+        <item>
+            学問
+        </item>
+        <item>
+            仏事・こと
+        </item>
+        <item>
+            仏事・こと
+        </item>
+    </string-array>
+    <string-array name="jpQuestion42"></string-array>
+</resources>

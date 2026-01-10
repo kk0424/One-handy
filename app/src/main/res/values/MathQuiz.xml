@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Triangle1Quiz">
+        <item> maQuestion1 </item>
+        <item> maQuestion2 </item>
+        <item> maQuestion3 </item>
+        <item> maQuestion4 </item>
+        <item> maQuestion5 </item>
+        <item> maQuestion6 </item>
+        <item> maQuestion7 </item>
+        <item> maQuestion8 </item>
+        <item> maQuestion9 </item>
+        <item> maQuestion10 </item>
+    </string-array>
+    <string-array name="maQuestion1">
+        <item>
+            sinとは？
+        </item>
+        <item>
+            底辺分の対辺
+        </item>
+        <item>
+            対辺分の斜辺
+        </item>
+        <item>
+            斜辺分の底辺
+        </item>
+        <item>
+            斜辺分の対辺
+        </item>
+        <item>
+            斜辺分の対辺
+        </item>
+    </string-array>
+    <string-array name="maQuestion2">
+        <item>
+            cosとは？
+        </item>
+        <item>
+            底辺分の対辺
+        </item>
+        <item>
+            対辺分の斜辺
+        </item>
+        <item>
+            斜辺分の底辺
+        </item>
+        <item>
+            斜辺分の対辺
+        </item>
+        <item>
+            斜辺分の底辺
+        </item>
+    </string-array>
+    <string-array name="maQuestion3">
+        <item>
+            tanとは？
+        </item>
+        <item>
+            底辺分の対辺
+        </item>
+        <item>
+            対辺分の斜辺
+        </item>
+        <item>
+            斜辺分の底辺
+        </item>
+        <item>
+            斜辺分の対辺
+        </item>
+        <item>
+            底辺分の対辺
+        </item>
+    </string-array>
+    <string-array name="maQuestion4">
+        <item>
+            sin30°は？
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            1/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion5">
+        <item>
+            cos30°は？
+        </item>
+        <item>
+            √３
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            √3/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion6">
+        <item>
+            tan30°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1/√2
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            1/√3
+        </item>
+    </string-array>
+    <string-array name="maQuestion7">
+        <item>
+            sin45°は？
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            1/√2
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            1/√2
+        </item>
+    </string-array>
+    <string-array name="maQuestion8">
+        <item>
+            cos45°は？
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            1/√2
+        </item>
+        <item>
+            1/√2
+        </item>
+    </string-array>
+    <string-array name="maQuestion9">
+        <item>
+            tan45°は？
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1
+        </item>
+    </string-array>
+    <string-array name="maQuestion10">
+        <item>
+            sin60°は？
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            2/√3
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            √3/2
+        </item>
+    </string-array>
+    <string-array name="Triangle2Quiz">
+        <item> maQuestion11 </item>
+        <item> maQuestion12 </item>
+        <item> maQuestion13 </item>
+        <item> maQuestion14 </item>
+        <item> maQuestion15 </item>
+        <item> maQuestion16 </item>
+        <item> maQuestion17 </item>
+        <item> maQuestion18 </item>
+        <item> maQuestion19 </item>
+        <item> maQuestion20 </item>
+    </string-array>
+    <string-array name="maQuestion11">
+        <item>
+            cos60°は？
+        </item>
+        <item>
+            2
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            1/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion12">
+        <item>
+            tan60°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            √3
+        </item>
+    </string-array>
+    <string-array name="maQuestion13">
+        <item>
+            sin0°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            ない
+        </item>
+        <item>
+            0
+        </item>
+    </string-array>
+    <string-array name="maQuestion14">
+        <item>
+            cos0°は？
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            1/√3
+        </item>
+        <item>
+            1
+        </item>
+    </string-array>
+    <string-array name="maQuestion15">
+        <item>
+            tan0°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            ない
+        </item>
+        <item>
+            0
+        </item>
+    </string-array>
+    <string-array name="maQuestion16">
+        <item>
+            sin90°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1
+        </item>
+    </string-array>
+    <string-array name="maQuestion17">
+        <item>
+            cos90°は？
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            0
+        </item>
+    </string-array>
+    <string-array name="maQuestion18">
+        <item>
+            tan90°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            ない
+        </item>
+        <item>
+            ない
+        </item>
+    </string-array>
+    <string-array name="maQuestion19">
+        <item>
+            sin120°は？
+        </item>
+        <item>
+            -√3/2
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            √3/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion20">
+        <item>
+            cos120°は？
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            -1/2
+        </item>
+        <item>
+            -√2
+        </item>
+        <item>
+            -1/2
+        </item>
+    </string-array>
+    <string-array name="Triangle3Quiz">
+        <item> maQuestion21 </item>
+        <item> maQuestion22 </item>
+        <item> maQuestion23 </item>
+        <item> maQuestion24 </item>
+        <item> maQuestion25 </item>
+        <item> maQuestion26 </item>
+        <item> maQuestion27 </item>
+        <item> maQuestion28 </item>
+        <item> maQuestion29 </item>
+        <item> maQuestion30 </item>
+    </string-array>
+    <string-array name="maQuestion21">
+        <item>
+            tan120°は？
+        </item>
+        <item>
+            -1/2
+        </item>
+        <item>
+            -√3
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            -1
+        </item>
+        <item>
+            -√3
+        </item>
+    </string-array>
+    <string-array name="maQuestion22">
+        <item>
+            sin135°は？
+        </item>
+        <item>
+            -1/√2
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            1/√2
+        </item>
+        <item>
+            1/√2
+        </item>
+    </string-array>
+    <string-array name="maQuestion23">
+        <item>
+            cos135°は？
+        </item>
+        <item>
+            -1
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            1/√2
+        </item>
+        <item>
+            -1/√2
+        </item>
+        <item>
+            -1/√2
+        </item>
+    </string-array>
+    <string-array name="maQuestion24">
+        <item>
+            tan135°は？
+        </item>
+        <item>
+            -1
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            -1/2
+        </item>
+        <item>
+            √2
+        </item>
+        <item>
+            -1
+        </item>
+    </string-array>
+    <string-array name="maQuestion25">
+        <item>
+            sin150°は？
+        </item>
+        <item>
+            -√2
+        </item>
+        <item>
+            -1/√2
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            1/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion26">
+        <item>
+            cos150°は？
+        </item>
+        <item>
+            √3/2
+        </item>
+        <item>
+            -1/2
+        </item>
+        <item>
+            -√3/2
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            -√3/2
+        </item>
+    </string-array>
+    <string-array name="maQuestion27">
+        <item>
+            tan150°は？
+        </item>
+        <item>
+            -√3
+        </item>
+        <item>
+            1/2
+        </item>
+        <item>
+            -√2
+        </item>
+        <item>
+            -1/√3
+        </item>
+        <item>
+            -1/√3
+        </item>
+    </string-array>
+    <string-array name="maQuestion28">
+        <item>
+            sin180°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            -1/√2
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            ない
+        </item>
+        <item>
+            0
+        </item>
+    </string-array>
+    <string-array name="maQuestion29">
+        <item>
+            cos180°は？
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            -1
+        </item>
+        <item>
+            √3
+        </item>
+        <item>
+            -1/2
+        </item>
+        <item>
+            -1
+        </item>
+    </string-array>
+    <string-array name="maQuestion30">
+        <item>
+            tan180°は？
+        </item>
+        <item>
+            1
+        </item>
+        <item>
+            -√2
+        </item>
+        <item>
+            0
+        </item>
+        <item>
+            ない
+        </item>
+        <item>
+            0
+        </item>
+    </string-array>
+    <string-array name="Triangle4Quiz">
+        <item> maQuestion31 </item>
+        <item> maQuestion32 </item>
+    </string-array>
+    <string-array name="maQuestion31">
+        <item>
+            次のうち、正しいのはどれ？
+        </item>
+        <item>
+            sinθ + cosθ = 1
+        </item>
+        <item>
+            sinθ2 + cosθ2 = 1
+        </item>
+        <item>
+            sinθ2 + tanθ2 = 0
+        </item>
+        <item>
+            sinθ2 + tanθ2 = 2
+        </item>
+        <item>
+            sinθ2 + cosθ2 = 1
+        </item>
+    </string-array>
+    <string-array name="maQuestion32">
+        <item>
+            次のうち、正しいのはどれ？
+        </item>
+        <item>
+            sinθ = cosθ/tanθ
+        </item>
+        <item>
+            cosθ = tanθ/sinθ
+        </item>
+        <item>
+            sinθ = cosθtanθ
+        </item>
+        <item>
+            tanθ = sinθ/cosθ
+        </item>
+        <item>
+            tanθ = sinθ/cosθ
+        </item>
+    </string-array>
+</resources>
