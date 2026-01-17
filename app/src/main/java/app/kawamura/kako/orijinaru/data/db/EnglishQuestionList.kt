@@ -330,4 +330,125 @@ val englishQuestionList = listOf(
         correctAnswer = "電気の・電動の",
         isCorrect = null
     ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「invent」",
+        answer1 = "～を作る・製造する",
+        answer2 = "～を発見する・見つける",
+        answer3 = "～を発明する・でっちあげる",
+        answer4 = "～を設計する・計画する",
+        correctAnswer = "～を発明する・でっちあげる",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「discover」",
+        answer1 = "～を見つけ出す・探し当てる",
+        answer2 = "～を発見する・知る",
+        answer3 = "～を調べる・研究する",
+        answer4 = "～を気づく・悟る",
+        correctAnswer = "～を発見する・知る",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「develop」",
+        answer1 = "成長する・大きくなる",
+        answer2 = "発達する・～を発展させる",
+        answer3 = "変化する・変わる",
+        answer4 = "改善する・よくする",
+        correctAnswer = "発達する・～を発展させる",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「skill」",
+        answer1 = "才能・センス",
+        answer2 = "技術・力",
+        answer3 = "知識・情報",
+        answer4 = "経験・体験",
+        correctAnswer = "技術・力",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「ability」",
+        answer1 = "才能",
+        answer2 = "能力",
+        answer3 = "経験・体験",
+        answer4 = "知識",
+        correctAnswer = "能力",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「talent」",
+        answer1 = "能力",
+        answer2 = "才能",
+        answer3 = "経験・体験",
+        answer4 = "技術・技能",
+        correctAnswer = "才能",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「effort」",
+        answer1 = "挑戦",
+        answer2 = "努力",
+        answer3 = "結果",
+        answer4 = "計画・予定",
+        correctAnswer = "努力",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「practice」",
+        answer1 = "～を試す・試行する",
+        answer2 = "～を練習する・練習",
+        answer3 = "～を教える・指導する",
+        answer4 = "～を覚える・暗記する",
+        correctAnswer = "～を練習する・練習",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「game」",
+        answer1 = "遊び・娯楽",
+        answer2 = "試合・獲物",
+        answer3 = "勝利・成功",
+        answer4 = "競争・対決",
+        correctAnswer = "試合・獲物",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord4Quiz",
+        question = "次の英単語の意味は？「achieve」",
+        answer1 = "～を終える・完了する",
+        answer2 = "～を達成する",
+        answer3 = "～を得る",
+        answer4 = "～を作る・作成する",
+        correctAnswer = "～を達成する",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord5Quiz",
+        question = "次の英単語の意味は？「manage」",
+        answer1 = "～を計画する・予定する",
+        answer2 = "何とかして～する・～を管理する",
+        answer3 = "～を教える・指導する",
+        answer4 = "～を作る・作成する",
+        correctAnswer = "何とかして～する・～を管理する",
+        isCorrect = null
+    ),
 )
