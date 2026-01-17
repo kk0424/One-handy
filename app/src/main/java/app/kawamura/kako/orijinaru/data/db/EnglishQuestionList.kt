@@ -188,5 +188,146 @@ val englishQuestionList = listOf(
         correctAnswer = "～に感心する・称賛する",
         isCorrect = null
     ),
-
-    )
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord2Quiz",
+        question = "次の英単語の意味は？「impress」",
+        answer1 = "～を混乱させる・惑わせる",
+        answer2 = "～に感銘を与える・感心させる",
+        answer3 = "～を無視する・気にしない",
+        answer4 = "～を壊す・破壊する",
+        correctAnswer = "～に感銘を与える・感心させる",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord2Quiz",
+        question = "次の英単語の意味は？「award」",
+        answer1 = "～を拒否する・断る",
+        answer2 = "賞・～を授与する",
+        answer3 = "～を壊す・破壊する",
+        answer4 = "～を忘れる・無視する",
+        correctAnswer = "賞・～を授与する",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord2Quiz",
+        question = "次の英単語の意味は？「describe」",
+        answer1 = "～を隠す",
+        answer2 = "～を説明する",
+        answer3 = "～を壊す",
+        answer4 = "～を疑う",
+        correctAnswer = "～を説明する",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「explain」",
+        answer1 = "～を説明する",
+        answer2 = "～を解釈する",
+        answer3 = "～を詳しく述べる",
+        answer4 = "～を示す・指し示す",
+        correctAnswer = "～を説明する",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「communicate」",
+        answer1 = "～を伝える・知らせる",
+        answer2 = "～と意思の疎通をはかる",
+        answer3 = "～について話し合う",
+        answer4 = "～を説明する",
+        correctAnswer = "～と意思の疎通をはかる",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「express」",
+        answer1 = "～を伝える・表す",
+        answer2 = "～を説明する・述べる",
+        answer3 = "～を表現する・急行",
+        answer4 = "～を示す・指し示す",
+        correctAnswer = "～を表現する・急行",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「promise」",
+        answer1 = "～を約束する・約束",
+        answer2 = "～を計画する・予定する",
+        answer3 = "～を期待する・望む",
+        answer4 = "～を宣言する・公表する",
+        correctAnswer = "～を約束する・約束",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「information」",
+        answer1 = "知識・知恵",
+        answer2 = "情報",
+        answer3 = "解説",
+        answer4 = "知らせ・通知",
+        correctAnswer = "情報",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「technology」",
+        answer1 = "科学",
+        answer2 = "技術",
+        answer3 = "機械",
+        answer4 = "発明",
+        correctAnswer = "技術",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「research」",
+        answer1 = "～を調べる・調査",
+        answer2 = "～を研究する・研究",
+        answer3 = "～を実験する・実験",
+        answer4 = "～を分析する・分析",
+        correctAnswer = "～を研究する・研究",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「material」",
+        answer1 = "材料・素材",
+        answer2 = "材料・物質的な",
+        answer3 = "資源・エネルギー",
+        answer4 = "道具・器具",
+        correctAnswer = "材料・物質的な",
+        isCorrect = null
+    ),
+    Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「artificial」",
+        answer1 = "自然の",
+        answer2 = "人工的な",
+        answer3 = "機械の・自動の",
+        answer4 = "現代の・新しい",
+        correctAnswer = "人工的な",
+        isCorrect = null
+    ),Question(
+        subject = "English",
+        questionGroup = "EnglishWord3Quiz",
+        question = "次の英単語の意味は？「electric」",
+        answer1 = "電子の・電子的な",
+        answer2 = "電気の・電動の",
+        answer3 = "発電の・エネルギーの",
+        answer4 = "機械の・自動の",
+        correctAnswer = "電気の・電動の",
+        isCorrect = null
+    ),
+)
