@@ -331,4 +331,26 @@ val socialStudiesQuestionList = listOf(
         correctAnswer = "キリスト教",
         isCorrect = null
     ),
+    Question(
+        subject = "SocialStudies",
+        questionGroup = "geography3",
+        question = "人口の８割がヒンドゥー教を信仰している国は？",
+        answer1 = "エジプト",
+        answer2 = "イラン",
+        answer3 = "中国",
+        answer4 = "インド",
+        correctAnswer = "インド",
+        isCorrect = null
+    ),
+    Question(
+        subject = "SocialStudies",
+        questionGroup = "geography3",
+        question = "人口抑制のために一人っ子政策が行われていた国は？",
+        answer1 = "アメリカ",
+        answer2 = "ブラジル",
+        answer3 = "中国",
+        answer4 = "ベトナム",
+        correctAnswer = "中国",
+        isCorrect = null
+    ),
 )
